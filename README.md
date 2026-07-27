@@ -15,6 +15,11 @@ Direct Links to ChatGPT sessions
 [Acquiring Light vs Wisdom](https://chatgpt.com/share/bce3ce51-55be-41fd-b32a-0a85fd4aedac)  
 [Rewrite Pamina Tamino Dialog](https://chatgpt.com/share/67463184-1430-800f-a61f-8dbc3c81f43d)  
 
+## Repository Areas
+
+- `AI-generation/` contains process notes and AI research artifacts.
+- `music-transformer/` contains a Python-based MusicXML + MIDI transformation engine for measure extraction and mutation workflows.
+
 
 
 
