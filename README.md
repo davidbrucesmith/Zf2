@@ -8,12 +8,14 @@ Current activity is centered on:
 
 1. AI-generation research design and pilot execution.
 2. XML/MIDI conversion reliability in the transformation tooling pipeline.
+3. ZF1 source-corpus analysis and ZF2 transformation mapping.
 
 ## 2. Repository Areas
-The repository currently has two major work areas.
+The repository currently has three major work areas.
 
 1. AI-generation: research documents, protocol design, and experiment logs.
 2. music-transformer: Python tools for MIDI cleanup, strict piano enforcement, and MusicXML conversion.
+3. materials: source/media archive with provenance catalogs for ZF1 and ZF2 assets.
 
 ## 3. Document Naming Convention
 Research documents use a Doc-ID system with parent/child structure.
@@ -24,8 +26,8 @@ Research documents use a Doc-ID system with parent/child structure.
 
 Examples in this repository:
 
-1. AI-generation/D01.00_sectional_symbolic_recovery_master_proposal.md
-2. AI-generation/D01.01_melodyne_stem_feasibility_pilot.md
+1. AI-generation/docs/D01.00_sectional_symbolic_recovery_master_proposal.md
+2. AI-generation/docs/D01.01_melodyne_stem_feasibility_pilot.md
 
 The purpose of D is to distinguish research documents from executable tools and other asset types.
 
@@ -38,7 +40,30 @@ To keep naming clean:
 2. Code filenames stay descriptive and stable unless a controlled refactor is planned.
 3. Reliability work for conversion tools should be tracked as numbered documents under a dedicated parent stream, then linked to specific scripts in music-transformer.
 
-## 5. External Reference Material
+## 5. Materials Intake and Cataloging
+
+The repository now includes a formal media intake and provenance flow under materials/.
+
+Start here:
+
+1. Read materials/README.md.
+2. Drop incoming files into materials/intake/incoming/.
+3. Fill materials/templates/asset_intake_template.md.
+4. Add a row to materials/catalogs/asset_catalog.csv.
+5. Add or update section linkage in materials/catalogs/section_catalog.csv.
+6. Move curated files into materials/sources/ZF1-magic-flute/ or materials/sources/ZF2-sequel/.
+
+Note: empty archive folders are not tracked in git; run scripts/bootstrap_materials_tree.sh to restore the full local placeholder tree.
+
+## 6. New Analysis Stream (D03)
+
+The D03 stream formalizes source-to-sequel scholarship and transformation logic.
+
+1. D03.00 ZF1 source and transformation corpus master plan
+2. D03.01 ZF1 source analysis protocol
+3. D03.02 ZF1-to-ZF2 transformation mapping protocol
+
+## 7. External Reference Material
 Some earlier planning material is still in Google Docs and chat links.
 
 Extracted material:

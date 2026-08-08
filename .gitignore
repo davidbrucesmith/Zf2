@@ -1,0 +1,9 @@
+# macOS filesystem metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder/volume files
+.Spotlight-V100
+.Trashes
+.fseventsd
