@@ -1,4 +1,4 @@
-# S02 Study Overview
+# S01.02 — Suno Operatic Duet Role Consistency Study
 
 ## Core Research Question
 
@@ -17,7 +17,7 @@ The central problem is role confusion during extension passes, especially at han
 
 ## Artifact Structure
 
-1. Procedure: S02_experimental_procedure.md
+1. Procedure: S01.02_experimental_procedure.md
 2. Mechanical run ledger: S02_run_log.csv
 3. Consistency journal (actual entries): S02_suno_duet_role_consistency_journal.md
 4. Linking and adjudication rules: S02_linking_and_adjudication_protocol.md
