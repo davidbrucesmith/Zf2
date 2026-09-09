@@ -2,7 +2,7 @@
 
 They cheered for you, Ta-mi-no. They be-lieve.
 The grand de-sign you prom-ised to a-chieve...
-But when you speak of gath-er-ing up all light,
+But when you speak of gath-er-ing up all light, (all the light)
 Of ban-ish-ing the sha-dows from our sight...
 What hap-pens to the peo-ple in the grey?
 The ones who need the dusk to end the day?
@@ -21,7 +21,7 @@ To make our Per-fect Ab-so-lute en-dure.
 [Soprano: Pamina]
 (Genuinely trying to understand, searching)
 But light is meant to warm, to deep-ly bless,
-Not to be hoarded in a fortress press! (in a lone for-tress!)
+Not to be hoarded in a fortress press! (in a lone for-tress!) (in one single fortress)
 To bold-ly claim the sun is yours to bind—
 It feels... un-safe. In-tu-i-tive-ly un-kind.
 
@@ -29,8 +29,8 @@ It feels... un-safe. In-tu-i-tive-ly un-kind.
 [Tenor: Tamino]
 (Winces, shifting from partner to professor)
 "To bold-ly claim"? "To deep-ly bless"? My dear,
-Your syn-tax stum-bles when you feel this fear.(state your fear)
-You split your two in-fin-i-tives in stride.
+Your syn-tax stum-bles when you feel this fear.(state your fears)
+You split your two in-fin-i-tives in stride. (these two infinitives)
 Sa-ras-tro taught us: rules must be our guide. (With minions)
 
 [Chorus - The Escalation]
@@ -46,7 +46,7 @@ The world will burn if you con-sume the whole!
 the world will burn"?
 A class-ic dang-ling par-ti-ci-ple, I'm afraid!
 Who is walk-ing home? The world? The crowd?
-Your gram-mar wand-ers (fractures) when your feelings flare.
+Your gram-mar wand-ers (fractures) when your feel-ings flare.
 
 [Verse 4 - Desperate Anxiety]
 [Soprano: Pamina]
@@ -76,8 +76,8 @@ who treats the sub-junc-tive like a com-mon street di-a-lect!
 [Verse 5 - Mechanical Oblivion]
 [Soprano: Pamina]
 (Staring at him, completely astounded)
-The world is fracturing, its fabric torn and frayed,
-And you are parsing clauses for a phantom masquerade?!
+The world is frac-tur-ing, its fab-ric torn and frayed,
+And you are pars-ing clauses for a phantom masquerade?!
 
 [Tenor: Tamino]
 (Stiff, patronizing)
