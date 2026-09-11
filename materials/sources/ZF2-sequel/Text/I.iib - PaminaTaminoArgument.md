@@ -126,5 +126,5 @@ The world will bleed!
 A grotesque anthropomorphism.
 Your grammar fails, your logic is astray. (If your grammar fails, your logic goes astray)
 I disagree; I must be on my way. (I disagree with you; I must be on my way)
-
+[Orchestra switches to the Hail Sarastro Song and Tamino and the minions depart]
 [Orchestral Cut-Off - Sudden Silence]
